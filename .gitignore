@@ -1,0 +1,16 @@
+# python cache
+*.pyc
+__pycache__/
+.ipynb_checkpoints/
+
+# virtual environment
+venv/
+
+# JetBrains IDE
+.idea/
+
+# VS Code IDE
+.vscode/
+
+# MacOS trash
+.DS_Store
