@@ -18,6 +18,9 @@
 - numpy, pandas
 - scikit-learn
 
+#### Данные
+Размеченные данные чеков доступны по [ссылке]([url](https://drive.google.com/drive/folders/1CtVM738iChh35Izptv0svmsgiGNq47ad?usp=sharing)).
+
 ## Инструкция по запуску
 
 1. Установите [python3](https://www.python.org/)
