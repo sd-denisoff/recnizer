@@ -19,7 +19,7 @@
 - scikit-learn
 
 #### Данные
-Размеченные данные чеков доступны по [ссылке]([url](https://drive.google.com/drive/folders/1CtVM738iChh35Izptv0svmsgiGNq47ad?usp=sharing)).
+Размеченные данные чеков доступны по [ссылке](https://drive.google.com/drive/folders/1CtVM738iChh35Izptv0svmsgiGNq47ad?usp=sharing).
 
 ## Инструкция по запуску
 
