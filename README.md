@@ -1,11 +1,11 @@
 # Recnizer
 
-> [![](https://img.shields.io/badge/ML-Иван%20Добросовестнов-orange)](https://t.me/ivankot13 'telegram')
-> [![](https://img.shields.io/badge/ML&DevOps-Степан%20Денисов-blue)](https://t.me/sd_denisoff 'telegram')
+> [![](https://img.shields.io/badge/193-Иван%20Добросовестнов-orange)](https://t.me/ivankot13 'telegram')
+> [![](https://img.shields.io/badge/193-Степан%20Денисов-blue)](https://t.me/sd_denisoff 'telegram')
 
 ## Описание
 
-Система распознавания кассовых чеков
+Система распознавания информации с кассовых чеков
 
 ## Стек технологий
 
