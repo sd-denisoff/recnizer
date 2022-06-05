@@ -14,3 +14,6 @@ venv/
 
 # MacOS trash
 .DS_Store
+
+# image dataset
+receipts/
